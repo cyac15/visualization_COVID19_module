@@ -1,5 +1,5 @@
 # Voting-COVID
-[![Build Status](https://travis-ci.org/cyac15/visualization_COVID19_module.svg?branch=main)](https://travis-ci.org/cyac15/visualization_COVID19_module.svg?branch=main)<br /> [![Coverage Status](https://coveralls.io/repos/github/lindseyulmer/Voting-COVID/badge.svg?branch=main&kill_cache=1)](https://coveralls.io/github/lindseyulmer/Voting-COVID?branch=main&kill_cache=1)
+[![Build Status](https://travis-ci.org/cyac15/visualization_COVID19_module.svg?branch=main)](https://travis-ci.org/cyac15/visualization_COVID19_module.svg?branch=main)<br />
 [![Coverage Status](https://coveralls.io/repos/github/cyac15/visualization_COVID19_module/badge.svg?branch=main&kill_cache=1)](https://coveralls.io/github/cyac15/visualization_COVID19_module?branch=main&kill_cache=1)
 ## Introduction
 The purpose of this project is to use our module to visualize COVID and election data on the same plot, so that people can better discern the political ramifications of the pandemic.
